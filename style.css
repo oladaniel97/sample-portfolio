@@ -343,7 +343,7 @@ h2 {
   .contact {
     display: flex;
     flex-direction: column;
-    margin-bottom: 30%;
+    margin-bottom: 35%;
   }
   .contact form {
     margin: -80px;
