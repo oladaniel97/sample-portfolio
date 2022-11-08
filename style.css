@@ -139,7 +139,7 @@ footer a {
 .contact {
   display: flex;
   align-items: center;
-  margin-bottom: 20%;
+  /* margin-bottom: 30%; */
   min-height: 100vh;
   max-height: 100vh;
 }
@@ -343,6 +343,7 @@ h2 {
   .contact {
     display: flex;
     flex-direction: column;
+    margin-bottom: 30%;
   }
   .contact form {
     margin: -80px;
